@@ -1,4 +1,7 @@
-#Mon Aug 21 12:23:17 EDT 2017
-base.0=/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Tue Aug 22 01:13:43 EDT 2017
+base.0=/home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e12e91cda0c135b71f98e6f0de718fd51119439a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ecf3b52b54ee9fca58026f5ffa4c4532e188a3e7/classes.dex
+base.1=/home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ecf3b52b54ee9fca58026f5ffa4c4532e188a3e7
+file.0=/home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e12e91cda0c135b71f98e6f0de718fd51119439a/classes.dex

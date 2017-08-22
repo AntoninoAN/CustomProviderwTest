@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml
@@ -13,8 +13,14 @@ ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main
 	android:versionCode
 		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml
 		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml
+permission#android.permission.permRead
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:4:5-5:55
+	android:protectionLevel
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:5:9-41
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:4:17-59
 application
-ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:6:5-27:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/tony/.android/build-cache/5e2c826caa14c7fe5f676de19e8f86f1a79692c1/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/tony/.android/build-cache/3af1d0e82e89a0b2b968661065aae90d5ee592bb/output/AndroidManifest.xml:29:5-20
@@ -26,37 +32,43 @@ MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/to
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/tony/.android/build-cache/5181968b8da140acd3987eb94cde9c9ebae3d9ff/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tony/.android/build-cache/577253b6b1470331db9cff84f908616283ebd11d/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:11:9-35
 	android:roundIcon
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:10:9-54
 	android:allowBackup
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.example.tony.w5d3ex01.MainActivity
-ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:17:27-74
 provider#com.example.tony.w5d3ex01.Model.MovieProvider
-ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:19:9-21:60
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:20:9-26:3
+	android:readPermission
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:23:13-65
 	android:authorities
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:20:13-60
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:21:13-60
+	android:grantUriPermissions
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:25:13-47
+	android:exported
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:24:13-36
 	android:name
-		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:21:13-48
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml:22:13-48
 uses-sdk
 INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/W5d3ex01/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/AndroidManifest.xml:21:5-23:78

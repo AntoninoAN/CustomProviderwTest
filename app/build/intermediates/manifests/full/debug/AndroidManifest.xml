@@ -8,6 +8,10 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="26" />
 
+    <permission
+        android:name="android.permission.permRead"
+        android:protectionLevel="normal" />
+
     <meta-data
         android:name="android.support.VERSION"
         android:value="26.0.0-alpha1" />
@@ -29,7 +33,10 @@
 
         <provider
             android:name="com.example.tony.w5d3ex01.Model.MovieProvider"
-            android:authorities="com.example.tony.w5d3ex01" />
+            android:authorities="com.example.tony.w5d3ex01"
+            android:exported="true"
+            android:grantUriPermissions="true"
+            android:readPermission="android.permission.permRead" />
     </application>
 
 </manifest>

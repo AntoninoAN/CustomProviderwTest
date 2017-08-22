@@ -52,7 +52,7 @@ public class MovieProvider extends ContentProvider {
         switch (uriMatcher.match(uri)){
             case GENRE:
                 returnCursor=db.query(
-                        FeedContract.FeedEntryMovies.TABLE_NAME_MOVIES,
+                        FeedContract.FeedEntryGenre.TABLE_NAME_GENRE,
                         projection,
                         selection,
                         selectionArgs,
