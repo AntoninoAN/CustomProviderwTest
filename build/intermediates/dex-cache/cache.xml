@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tony/.android/build-cache/c37f4b017f0e33a8c60d4e3e9f6657b610bc2a0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/classes_e0bf47176dad633090b6b45650835cfea2e72a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_9f14b594fd0a6a814bda2f5ffd3a30fea442a278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_a369be944e5c3860a6ea6dc562828464a30e0ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.android/build-cache/06bbb54316b8702a941992c388315214e0c871b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/classes_3aff8ed6400dd1f7e40f6a3f8f19786390b06795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.android/build-cache/6b6447cc1a686e02eb1cb0b0aed006327a9f1e49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/classes_08aeb81b15bae55941df17c43535cfde0d889d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_bc616ea6895cd2f0f8551a7e5d632f3894e53590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.android/build-cache/fbbf77717cefdd2d0129c10b155db159dcb46abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/classes_198af8e0f04d06afdc095826fb4ab312434a6162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_ddc602045c5d33438373a0106911bad0eb53ffe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_487d829bf130f1091dd3f6a5ffcaded3256fcbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.android/build-cache/2a5305298a4a6e64d8b650fdb550c60aae1b9e95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/classes_60038973ad09bcefd95991a7e3303f59c62108a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_ea96963a0f5c47d79e3ec36a003584f64e6e94b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_ddfa7ad9e5dd4b02990c24b6d2cc391098360900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/W5d3ex01/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_8e0a46076f446f0ba4c9e20ff30ace979f5043f4.jar" />
+    </item>
+
+</items>

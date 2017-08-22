@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.tony.w5d3ex01.ApplicationTest" tests="9" failures="0" errors="0" skipped="0" time="0.652" timestamp="2017-08-21T16:44:02" hostname="localhost">
+  <properties>
+    <property name="device" value="Nexus 7 - 5.0.2" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testApplicationTestCaseSetUpProperly" classname="com.example.tony.w5d3ex01.ApplicationTest" time="0.025" />
+  <testcase name="testAndroidTestCaseSetupProperly" classname="com.example.tony.w5d3ex01.ApplicationTest" time="0.0" />
+  <testcase name="useAppContext" classname="com.example.tony.w5d3ex01.ExampleInstrumentedTest" time="0.0" />
+  <testcase name="testDeleteAllRecords" classname="com.example.tony.w5d3ex01.ProviderTest" time="0.176" />
+  <testcase name="testGetType" classname="com.example.tony.w5d3ex01.ProviderTest" time="0.076" />
+  <testcase name="testInsertAndReadMovie" classname="com.example.tony.w5d3ex01.ProviderTest" time="0.076" />
+  <testcase name="testUpdateGenre" classname="com.example.tony.w5d3ex01.ProviderTest" time="0.075" />
+  <testcase name="testUpdateMovie" classname="com.example.tony.w5d3ex01.ProviderTest" time="0.127" />
+  <testcase name="testAndroidTestCaseSetupProperly" classname="com.example.tony.w5d3ex01.ProviderTest" time="0.076" />
+</testsuite>
